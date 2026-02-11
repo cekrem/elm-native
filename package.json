@@ -1,0 +1,21 @@
+{
+  "name": "elm-native",
+  "author": "Christian Ekrem",
+  "version": "0.1.0",
+  "description": "Scaffold hybrid mobile apps with Elm + Vite + Capacitor",
+  "bin": {
+    "elm-native": "bin/elm-native.js"
+  },
+  "files": [
+    "bin/",
+    "template/"
+  ],
+  "keywords": [
+    "elm",
+    "capacitor",
+    "mobile",
+    "scaffold",
+    "cli"
+  ],
+  "license": "MIT"
+}
