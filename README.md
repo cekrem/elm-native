@@ -1,6 +1,6 @@
 # elm-native
 
-Scaffold hybrid mobile apps with Elm, Vite, and Capacitor.
+Scaffold hybrid mobile apps with Elm, Vite, and Capacitor. ([Blog post](https://cekrem.github.io/posts/elm-native))
 
 ```bash
 npx elm-native my-app
